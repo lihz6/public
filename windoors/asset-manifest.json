@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/public/windoors/static/css/main.9d2d7df6.chunk.css",
+    "main.js": "/public/windoors/static/js/main.7b3e8938.chunk.js",
+    "main.js.map": "/public/windoors/static/js/main.7b3e8938.chunk.js.map",
+    "runtime~main.js": "/public/windoors/static/js/runtime~main.82de7161.js",
+    "runtime~main.js.map": "/public/windoors/static/js/runtime~main.82de7161.js.map",
+    "static/css/2.e75d0ff4.chunk.css": "/public/windoors/static/css/2.e75d0ff4.chunk.css",
+    "static/js/2.b5670e64.chunk.js": "/public/windoors/static/js/2.b5670e64.chunk.js",
+    "static/js/2.b5670e64.chunk.js.map": "/public/windoors/static/js/2.b5670e64.chunk.js.map",
+    "index.html": "/public/windoors/index.html",
+    "precache-manifest.806d6af21d3d4db7309510f36286a178.js": "/public/windoors/precache-manifest.806d6af21d3d4db7309510f36286a178.js",
+    "service-worker.js": "/public/windoors/service-worker.js",
+    "static/css/2.e75d0ff4.chunk.css.map": "/public/windoors/static/css/2.e75d0ff4.chunk.css.map",
+    "static/css/main.9d2d7df6.chunk.css.map": "/public/windoors/static/css/main.9d2d7df6.chunk.css.map"
+  }
+}
